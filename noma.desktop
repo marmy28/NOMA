@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.1
+Type=Application
+Path=/usr/share/noma/
+Terminal=True
+Exec=python /usr/share/noma/noma.py
+Name=NOMA
+Icon=noma
+Categories=Science;
